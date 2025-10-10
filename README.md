@@ -53,8 +53,8 @@ Currently at **Amazon**, where I build large-scale internal systems serving 100K
 ---
 
 ### 🧩 Latest Repositories
-- 🏓 **Pickleball Tracker API** – Async FastAPI backend for match tracking  
-
+- 🏓 **[Pickleball Tracker API](https://github.com/anle2024/pickleball-tracker-api)** – Async FastAPI backend for match tracking
+  
 ---
 
 ### 🌍 Connect
