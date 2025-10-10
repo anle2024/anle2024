@@ -35,6 +35,15 @@ Currently at **Amazon**, where I build large-scale internal systems serving 100K
 
 ---
 
+### 🚀 Currently Learning & Working On
+
+- 📚 **Learning:** Advanced distributed systems, database sharding, scalable backend architectures
+- 🛠️ **Working On:**  
+  - Improving backend reliability and performance  
+  - Solving data structure & algorithm problems on LeetCode  
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anle2024&show_icons=true&theme=transparent&hide_border=true" height="165">
