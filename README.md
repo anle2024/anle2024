@@ -54,6 +54,7 @@ Currently at **Amazon**, where I build large-scale internal systems serving 100K
 
 ### 🧩 Latest Repositories
 - 🏓 **[Pickleball Tracker API](https://github.com/anle2024/pickleball-tracker-app)** – Async FastAPI backend for match tracking
+- **[Distributed Map Reduce Application](https://github.com/anle2024/Distributed-Map-Reduce-Application)** - Distributed MapReduce framework for processing large datasets across multiple worker processes.
   
 ---
 
